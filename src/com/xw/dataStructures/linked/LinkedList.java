@@ -1,4 +1,4 @@
-package com.xw.test1;
+package com.xw.dataStructures.linked;
 
 /**
  * @ClassName: LinkedList
